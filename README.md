@@ -51,7 +51,7 @@ where
 $ python3 weapons.py webdriver/chromedriver "https://ibanking.bangkokbank.com"
 ```
 
-We also include our example of output report generated from WEAPONS in
+We also include some examples of report generated from WEAPONS in
 https://github.com/ssivakorn/WEAPONS/tree/master/examples.
 
 ## Questions?
