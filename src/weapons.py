@@ -23,7 +23,7 @@ driver.get(url)
 #               request.response.headers)
 
 html_report = Report(url)
-html_report.add_req_response(driver.requests)
+html_report.add_request(driver.requests)
 
 kSECOND_WAIT = 10
 try:
